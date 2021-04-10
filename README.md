@@ -10,5 +10,5 @@ https://teachyourselfcs.com/
 
 ## Tools
 ### Vim
-https://www.openvim.com/ A live tutorial for using vim in context. Recommend using this over vimgenius.
-http://www.vimgenius.com/ Tests your knowledge of vim shortcuts.
+https://www.openvim.com/
+http://www.vimgenius.com/
