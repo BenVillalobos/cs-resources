@@ -9,13 +9,17 @@ https://teachyourselfcs.com/
 
 .NET Core Source: https://source.dot.net/
 
-## Tools
+# Tools
 ## Git
 [Git Internals - How Git Works - Fear Not The SHA!](https://www.youtube.com/watch?v=P6jD966jzlk).
 
 [Git Internals - PDF](https://github.com/pluralsight/git-internals-pdf).
 
-### Vim
+## Vim
 https://www.openvim.com/
 
 http://www.vimgenius.com/
+
+## Visual Studio
+### Debugging
+[Tips and Tricks for .NET Debugging in Visual Studio](https://www.youtube.com/watch?v=lgKInHJ-tcg)
