@@ -2,12 +2,18 @@
 Resources for various computer science-y things.
 
 ## Other Hubs
-https://teachyourselfcs.com/
+https://teachyourselfcs.com/: Self explanatory.
+
+https://free-for.dev/#/: a list of various free-tiers of services for developers.
 
 ## Notable Source Code
 [.NET Framework Source](https://referencesource.microsoft.com/)
 
 [.NET Core Source](https://source.dot.net/)
+
+## Courses
+### Operating Systems
+[Nand2Tetris](https://www.nand2tetris.org/)
 
 # Tools
 ## Git
@@ -18,6 +24,8 @@ https://teachyourselfcs.com/
 [Learn Git Branching](https://learngitbranching.js.org/): Interactive visualizer/tutorial with challenges.
 
 [Visualizing Git](http://git-school.github.io/visualizing-git/): General git playground & visualizer.
+
+[gitignore.io](gitignore.io): Search for various gitignore templates based on the project or environment.
 
 ## Vim
 [Openvim](https://www.openvim.com/): Interactive tutorial for Vim
