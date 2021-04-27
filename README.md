@@ -11,9 +11,13 @@ https://free-for.dev/#/: a list of various free-tiers of services for developers
 
 [.NET Core Source](https://source.dot.net/)
 
-## Courses
+# Courses
 ### Operating Systems
 [Nand2Tetris](https://www.nand2tetris.org/)
+
+# Programming Etceteras
+## Regular Expressions
+[Regexr](https://regexr.com/): Playground for learning the rules of regular expressions.
 
 # Tools
 ## Git
