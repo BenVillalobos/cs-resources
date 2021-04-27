@@ -4,7 +4,7 @@ Resources for various computer science-y things.
 ## Other Hubs
 https://teachyourselfcs.com/: Self explanatory.
 
-https://free-for.dev/#/: a list of various free-tiers of services for developers.
+[free-for.dev](https://free-for.dev/#/): a list of various free-tiers of services for developers.
 
 ## Notable Source Code
 [.NET Framework Source](https://referencesource.microsoft.com/)
