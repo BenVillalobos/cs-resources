@@ -6,6 +6,8 @@ https://teachyourselfcs.com/: Self explanatory.
 
 [free-for.dev](https://free-for.dev/#/): a list of various free-tiers of services for developers.
 
+[Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+
 ## Notable Source Code
 [.NET Framework Source](https://referencesource.microsoft.com/)
 
